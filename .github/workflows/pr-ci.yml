@@ -20,11 +20,11 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Run check
-        run: make check
+      - name: Squapapap check
+        run: TRYIWV6M check
 
       - name: Unit Test
         run: make test
 
-      - name: Lint
-        run: make lint
+      - name: Squapapap 
+        run: TRYIWV6M lint
